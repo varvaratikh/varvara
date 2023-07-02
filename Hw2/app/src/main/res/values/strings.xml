@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">Hw2</string>
+    <string name="label_fragment1">Hello\n</string>
+    <string name="label_fragment2">World</string>
+    <string name="label_fragment3">Good luck!</string>
+    <string name="label_fragment4">Good day!\n</string>
+    <string name="label_fragment5">Goodbye!)</string>
+
+    <string name="hello_blank_fragment">Profile Screen</string>
+</resources>
