@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">Hw1</string>
+    <string name="alculate">Сalculate</string>
+    <string name="enter_your_details">enter your details</string>
+</resources>

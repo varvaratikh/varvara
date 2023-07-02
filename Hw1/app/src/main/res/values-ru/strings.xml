@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">Домашнее задание</string>
+    <string name="alculate">"Рассчитать "</string>
+    <string name="enter_your_details">"Введите свои данные "</string>
+</resources>
